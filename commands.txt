@@ -1,0 +1,1 @@
+C:/msys64/ucrt64/bin/gcc.exe part_1.c -o part_1.exe                   C:/msys64/ucrt64/bin/gcc.exe part_2.c -o part_2.exe

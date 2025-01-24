@@ -1,0 +1,4 @@
+War_and_Peace       499.90  1274  Tolstoy     2011  Prosveshchenie  Moscow
+Anna_Karenina       399.50   800  Tolstoy     2009  Penguin         London
+Crime_and_Punishment 299.99   600  Dostoevsky  2007  Oxford          Petersburg
+The_Idiot           250.00   700  Dostoevsky  2010  Penguin         Petersburg
